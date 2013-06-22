@@ -4,9 +4,9 @@
 ## About
 
 XtNodeParser is a PHP based class which is inspired from xtgem visual mobile site building tool.
-This parser covert <xt:some_tagname  ...some attribute ../>
+This parser covert &it; xt:some_tagname  ...some attribute ../&gt; 
 For example
-<xt:tdate format="y-m-d" /> will return current date and time
+&it; xt:tdate format="y-m-d" /&gt;  will return current date and time
 Full list of XtNodeParser functionality can be found on there developers site.
 
 
